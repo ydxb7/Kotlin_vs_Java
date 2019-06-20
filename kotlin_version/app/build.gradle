@@ -33,6 +33,7 @@ dependencies {
 
     // TODO (8) Add Kotlin Lib Anko
     implementation "org.jetbrains.anko:anko-appcompat-v7:0.10.1"
+    implementation "org.jetbrains.anko:anko-sqlite:0.10.1"
 }
 repositories {
     mavenCentral()
