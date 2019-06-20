@@ -30,6 +30,9 @@ dependencies {
     implementation "com.android.support:recyclerview-v7:28.0.0"
     implementation "com.android.support:cardview-v7:28.0.0"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+
+    // TODO (8) Add Kotlin Lib Anko
+    implementation "org.jetbrains.anko:anko-appcompat-v7:0.10.1"
 }
 repositories {
     mavenCentral()
